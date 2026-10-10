@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analysis-First Writing"
+  short_description: "Analyze the brief before drafting and reviewing."
+  default_prompt: "Use $analysis-first-writing to analyze the goal, audience, facts, tone, and structure first, then write, review, and deliver the requested text."
